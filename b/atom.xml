@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Coding Jazz</title>
+    <link rel="alternate" type="text/html" href="http://oliwer.net/b/" />
+    <link rel="self" type="application/atom+xml" href="http://oliwer.net/b/atom.xml" />
+    <id>tag:oliwer.net,2008-05-17:/b//1</id>
+    <updated>2008-09-02T17:15:49Z</updated>
+    <subtitle>I&apos;m really not sure this blog is a good idea</subtitle>
+    <generator uri="http://www.sixapart.com/movabletype/">Movable Type Open Source 4.1</generator>
+
+<entry>
+    <title>September&apos;s screenshot</title>
+    <link rel="alternate" type="text/html" href="http://oliwer.net/b/2008/09/septembers-screenshot.html" />
+    <id>tag:oliwer.net,2008:/b//1.7</id>
+
+    <published>2008-09-02T17:11:22Z</published>
+    <updated>2008-09-02T17:15:49Z</updated>
+
+    <summary>All the details are in the screenshot....</summary>
+    <author>
+        <name>Olivier Duclos</name>
+        
+    </author>
+    
+    <category term="linux" label="linux" scheme="http://www.sixapart.com/ns/types#tag" />
+    <category term="openbox" label="openbox" scheme="http://www.sixapart.com/ns/types#tag" />
+    
+    <content type="html" xml:lang="en" xml:base="http://oliwer.net/b/">
+        <![CDATA[All the details are in the screenshot.<br /><br /><div align="center"><span class="mt-enclosure mt-enclosure-image" style="display: inline;"><a href="http://oliwer.net/b/pics/screen-19-09-28.html" onclick="window.open('http://oliwer.net/b/pics/screen-19-09-28.html','popup','width=1440,height=900,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false"><img src="http://oliwer.net/b/pics/screen-19-09-28-thumb-400x250.png" alt="screen-19-09-28.png" class="mt-image-center" style="margin: 0pt auto 20px; text-align: center; display: block;" width="400" height="250" /></a></span></div> ]]>
+        
+    </content>
+</entry>
+
+<entry>
+    <title>VolWheel could be an elfish word</title>
+    <link rel="alternate" type="text/html" href="http://oliwer.net/b/2008/08/volwheel-could-be-an-elfish-wo.html" />
+    <id>tag:oliwer.net,2008:/b//1.6</id>
+
+    <published>2008-08-27T16:29:33Z</published>
+    <updated>2008-08-27T16:33:10Z</updated>
+
+    <summary>Don&apos;t you think so ?Anyway, VolWheel 0.2.5 is officially out. This release brings a *big* improvement : a dynamic icon which change according to the sound volume. I also added some new icons and two icon themes so your VolWheel...</summary>
+    <author>
+        <name>Olivier Duclos</name>
+        
+    </author>
+    
+    <category term="linux" label="linux" scheme="http://www.sixapart.com/ns/types#tag" />
+    <category term="software" label="software" scheme="http://www.sixapart.com/ns/types#tag" />
+    <category term="volwheel" label="volwheel" scheme="http://www.sixapart.com/ns/types#tag" />
+    
+    <content type="html" xml:lang="en" xml:base="http://oliwer.net/b/">
+        <![CDATA[Don't you think so ?<br /><br />Anyway, VolWheel 0.2.5 is officially out. This release brings a *big* improvement : a dynamic icon which change according to the sound volume. I also added some new icons and two icon themes so your VolWheel will be more cute than ever.<br /><br />With that, I don't know what kind of feature could I add more. In fact, I begin to think I shouldn't add anything more. This way I will be sure the program doesn't get fat and slow. Perl is already bloated enough. My only regret is that VolWheel makes an heavy use on amixer, which is definitely too big and unadapted to my usage. That's why I am considering coding a lightweight replacement. Some kind of "MiniAMixer" which would only get/set the volume and provide easy to parse output informations (good bye regex !).<br /><br />I have an other plan though. Like many users of the Openbox window manager, I am using PyPanel as a taskbar. Unfortunately, the author abandoned his project in 2005. Only a few patches have been released since and I am quite surprised that such a popular application has so few contributers. The plan is to make a fork of PyPanel (codenamed PyPaneli, the i is for improved) which will include two ro three of the most useful patch released up to now, a few bugfixes, and two new features.<br /><br />The first one will be the ability to show any kind of textual information inside PyPaneli. For example, you could print the output of conky-cli inside PyPaneli to get system infos. The major advantages over using the traditional conky is the gain of space and the the fact that you can click on the information zone to do anything you want. Oh! And you will be able to use a different color to show those informations.<br /><br />The second one will be a sound volume control widget. Yes, again! This is important to me. But It will be a lot simpler that VolWheel since it will only show text, no icons. And say adios to the the huge perl/gtk dependencies.<br /><br />Being in Python, PyPanel is easy to hack. Now all I need is to get some motivation. ]]>
+        
+    </content>
+</entry>
+
+<entry>
+    <title>I just finished installing Movable Type 4!</title>
+    <link rel="alternate" type="text/html" href="http://oliwer.net/b/2008/05/i-just-finished-installing-mov.html" />
+    <id>tag:oliwer.trial.csoft.net,2008:/b//1.1</id>
+
+    <published>2008-05-17T00:19:42Z</published>
+    <updated>2008-07-18T12:09:40Z</updated>
+
+    <summary>Welcome to my new blog powered by Movable Type. This is the first post on my blog and was created for me automatically when I finished the installation process. But that is ok, because I will soon be creating posts...</summary>
+    <author>
+        <name>Olivier Duclos</name>
+        
+    </author>
+    
+    <category term="useless" label="useless" scheme="http://www.sixapart.com/ns/types#tag" />
+    
+    <content type="html" xml:lang="en" xml:base="http://oliwer.net/b/">
+        Welcome to my new blog powered by Movable Type. This is the first post
+on my blog and was created for me automatically when I finished the
+installation process. But that is ok, because I will soon be creating
+posts of my own!
+        
+    </content>
+</entry>
+
+</feed>

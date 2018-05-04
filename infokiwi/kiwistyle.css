@@ -1,0 +1,60 @@
+body {
+	scrollbar-face-color: #99cc00;
+	scrollbar-shadow-color: #FFFFFF;
+	scrollbar-highlight-color: #FFFFFF;
+	scrollbar-3dlight-color: #000000; 
+	scrollbar-darkshadow-color: #000000;
+	scrollbar-track-color: #ffffff;
+	scrollbar-arrow-color: #000000;
+	cursor: default;
+	font-family: sans-serif;
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+a{
+	color: #99cc00;
+}
+a:hover{
+	color: #99dd00;
+}
+.tit{
+	background-color: #99CC00;
+	border-top: 2px solid #D6FF60;
+	border-right: 2px solid #D6FF60;
+	border-bottom: 2px solid #82AE00;
+	border-left: 2px solid #82AE00;
+	color: White;
+	font-weight: bold;
+}
+table.size{
+	width: 775px;
+}
+.bar{ border-right: thin dashed #99CC00;
+border-left: thin dashed #99CC00; }
+.bar2{
+	border-left: thin dashed #99CC00;
+	width: 216px;
+}
+.Style1 {
+	font-size: xx-large;
+	font-weight: bold;
+}
+.Style2 {
+	color: #99CC00
+}
+tr.down{
+	background-color: #99CC00;
+	font-weight: bold;
+}
+.btn{border : 1px solid; background-color : #99CC00;}
+.frm{border : 1px solid;}
+.nws{
+	border: 1px solid #99CC00;
+	padding-left: 5px;
+	padding-right: 5px;
+	padding-bottom: 5px;
+	padding-top: 5px;
+	width: 468px;
+}

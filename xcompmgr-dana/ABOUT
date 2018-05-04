@@ -1,0 +1,10 @@
+Since Dana's GIT repository has been closed, I've decided to host the last
+version of Dana's xcompmgr here. This version includes the patch to fix the
+Conky rendering issue.
+
+dana-xcompmgr is a fork of the official xcompmgr (at version 1.3) which adds
+a menu transparency feature. Although it has been abandoned for years, I
+still use it everyday without any problem.
+
+Olivier Duclos
+olivier.duclos_AT_gmail.com
